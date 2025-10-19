@@ -228,66 +228,14 @@ The interactive Streamlit dashboard provides:
 - **Expected Impact**: 5-10% operational efficiency improvement
 - **Timeline**: 2-4 months for full automation
 
-## 🔄 Future Enhancements
 
-### Phase 2 Development
-- **Real-time Data Integration**: Live transaction processing
-- **Advanced ML Models**: Deep learning for demand forecasting
-- **Mobile Dashboard**: Responsive design for mobile devices
-- **API Development**: RESTful APIs for system integration
 
-### Phase 3 Expansion
-- **Multi-store Analysis**: Comparative performance across locations
-- **Inventory Optimization**: AI-driven stock management
-- **Price Optimization**: Dynamic pricing algorithms
-- **Customer Journey Mapping**: End-to-end customer experience analysis
 
-## 🤝 Contributing
 
-We welcome contributions to improve SmartCart Analytics! Please follow these steps:
 
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature-name`
-3. **Make your changes** and add tests
-4. **Commit your changes**: `git commit -m 'Add feature'`
-5. **Push to the branch**: `git push origin feature-name`
-6. **Submit a pull request**
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💼 Author
-
-**Data Analytics Team**
-- 📧 Email: analytics@smartcart.com
-- 💼 LinkedIn: [SmartCart Analytics](https://linkedin.com/company/smartcart)
-- 🐙 GitHub: [smartcart-analytics](https://github.com/smartcart-analytics)
-
-## 🙏 Acknowledgments
-
-- **UCI Machine Learning Repository** for providing the Online Retail II dataset
-- **Streamlit Team** for the excellent web app framework
-- **MLxtend Contributors** for market basket analysis tools
-- **Plotly Team** for interactive visualization capabilities
-
-## 📞 Support
-
-For questions, issues, or support:
-
-- **📧 Email**: support@smartcart-analytics.com
-- **💬 Discussions**: GitHub Discussions tab
-- **🐛 Issues**: GitHub Issues tab
-- **📖 Documentation**: [Full Documentation](https://docs.smartcart-analytics.com)
-
----
-
-<div align="center">
-
-**🛒 SmartCart Analytics - Transforming Retail Data into Revenue Growth**
-
-*Built with ❤️ using Python, Streamlit, and Advanced Analytics*
 
 [⭐ Star this repo](https://github.com/smartcart-analytics/smartcart) • [🍴 Fork it](https://github.com/smartcart-analytics/smartcart/fork) • [📢 Share it](https://twitter.com/intent/tweet?text=Check%20out%20SmartCart%20Analytics!)
+
 
 </div>
